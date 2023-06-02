@@ -1,2 +1,2 @@
-# hello-world
-Đây là thông tin mô tả kho lưu trữ của bản 
+# Bye-world
+Đây là thông tin  mà tôi muốn thay đổi nè !!!
